@@ -5,13 +5,13 @@ tags:
 - tag2
 ---
 <center>
-<font size= "6">(Your Name) Datasheet</font><br>
+<font size= "6">Joseph Nunez Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project Name</font><br>
+<font size= "8"> Self Balancing Table</font><br>
 for<br>
-<font size= "5"> Team ### </font><br>
+<font size= "5"> Team 208 </font><br>
 
-**Submission: month, DD, YYYY**
+**Submission: 09, 03, 2026**
 </center>
 
 ## Introduction
