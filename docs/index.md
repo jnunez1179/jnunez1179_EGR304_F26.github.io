@@ -16,12 +16,13 @@ for<br>
 
 ## Introduction
 
-* This needs to be updated so that a reader gets an idea of the purpose of this datasheet.
-
+This datasheet is meant to document the contents and functionality of the Inertial Measurement Board
 ### Project Summary
 
-* This needs to be updated to reflect <ins>your version</ins> of the team project, so when shared not via the team's report, the reader gets an idea of the direction of the project and how your work will contribute to the overall success.
-* Add context that ties into the link to your [team report.](https://embedded-systems-design.github.io/EGR304TeamTemplate/)
+This board will read data from the Inertial Measurement Units Accelerometer and Gyroscope to estimate angular values. Based
+off of these values, the board decide if the motor state should be Clockwise, Counter-Clockwise, or Stopped. It will then compare this
+state with the state that Caden's Board output, and if the state's agree, the agreed motor direction will be output to the Motor
+Actuation Board. The rest of the board's functionality can be found [here](https://asu-egr304-2026-f-208.github.io/).
 
 
 ### My Contribution

@@ -3,20 +3,19 @@ title: Power Budget
 ---
 
 ## Overview
-Write a overview of what you did and why you did a Power Budget.
+This Power Budget will help determine the necessary power supply and components necessary for operation.
 
-> Capture your power budge as a image to display. Take time to get clean breaks and a well organized layout.
+![budget1](budgetPg1.png)
 
-![budget1](budgetPg1.png){style width:"350" height:"300;"}
+![budget2](budgetPg2.png)
 
-![budget2](budgetPg2.png){style width:"350" height:"300;"}
+![budget3](budgetPg3.png)
 
-![budget3](budgetPg3.png){style width:"350" height:"300;"}
-
+![budget4](budgetPg4.png)
 ## Conclusions
 
-From the prepare Power Budget, .....
+The current components selected will easily be able to supply the necessary power/current requirements.
 
-## Resouces
+## Resources
 
-The power budget as a PDF download is available [*here*](PowerBudgetExample.pdf), and a Microsoft Excel Sheet [*here*](PowerBudgetExample.xlsx).
+The power budget as a PDF download is available [*here*](Power_Budget.pdf), and a Microsoft Excel Sheet [*here*](power_budget.xlsx).
