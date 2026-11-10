@@ -17,6 +17,7 @@ for<br>
 ## Introduction
 
 This datasheet is meant to document the contents and functionality of the Inertial Measurement Board
+
 ### Project Summary/Contribution
 
 This board will read data from the Inertial Measurement Units Accelerometer and Gyroscope to estimate angular values. Based
